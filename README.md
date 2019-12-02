@@ -1,5 +1,5 @@
 
-<ul  dir='rtl' align='right'>
+<ul  dir='rtl' align='right' font-family: 'Vazir'>
   
   # الگوریتم ازدحام ذرات و الگوریتم استراتژی تکاملی
 
