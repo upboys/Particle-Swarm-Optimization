@@ -1,5 +1,5 @@
 
-<ul  dir='rtl' align='right' font-family: 'Vazir'>
+<ul  dir='rtl' align='right' font-family:'https://fonts.googleapis.com/css?family=Lalezar|Markazi+Text&display=swap'>
   
   # الگوریتم ازدحام ذرات و الگوریتم استراتژی تکاملی
 
