@@ -1,0 +1,95 @@
+==================================================================
+step1
+cromossome: [-4.36929346e-09  1.59480799e-08]
+bestFitness: -10.0
+step2
+cromossome: [-1.47552668e-08 -5.49864691e-09]
+bestFitness: -10.0
+step3
+cromossome: [-1.81065842e-09 -4.79537033e-09]
+bestFitness: -10.0
+step4
+cromossome: [-1.14259878e-08  1.93490535e-08]
+bestFitness: -10.0
+step5
+cromossome: [-2.46376444e-08  2.51992769e-08]
+bestFitness: -10.0
+step6
+cromossome: [-9.42348936e-09  9.94958661e-01]
+bestFitness: -9.00504094290671
+step7
+cromossome: [-4.51034299e-08 -9.41540857e-10]
+bestFitness: -10.0
+step8
+cromossome: [1.18482714e-08 6.85918928e-09]
+bestFitness: -10.0
+step9
+cromossome: [-6.72949086e-08  9.55286286e-08]
+bestFitness: -10.0
+step10
+cromossome: [ 0.99495862 -0.99495863]
+bestFitness: -8.01008188581342
+step11
+cromossome: [-4.84041804e-09  4.56750355e-09]
+bestFitness: -10.0
+step12
+cromossome: [-2.04360112e-08  3.60210931e-08]
+bestFitness: -10.0
+step13
+cromossome: [-0.09309638 88.26441471]
+bestFitness: -9.994193321821939
+step14
+cromossome: [ 1.76718758e-09 -4.05667944e-09]
+bestFitness: -10.0
+step15
+cromossome: [ 5.57995064e-08 -3.47986774e-09]
+bestFitness: -10.0
+step16
+cromossome: [-3.28797460e-09 -6.08132918e-09]
+bestFitness: -10.0
+step17
+cromossome: [-3.25833595e-09 -3.87045899e-09]
+bestFitness: -10.0
+step18
+cromossome: [-3.30357943e-09  2.06723373e-08]
+bestFitness: -10.0
+step19
+cromossome: [-1.04849192e-07  7.93221293e-08]
+bestFitness: -10.0
+step20
+cromossome: [-2.33921684e-08 -1.22735629e-08]
+bestFitness: -10.0
+step21
+cromossome: [ 1.90604881e-08 -1.11052314e-08]
+bestFitness: -10.0
+step22
+cromossome: [6.99213799e-05 4.66142216e+02]
+bestFitness: -9.999075334790586
+step23
+cromossome: [ 1.03559265e-07 -7.64053221e-08]
+bestFitness: -10.0
+step24
+cromossome: [-3.06822097e-06  1.74850505e-07]
+bestFitness: -9.999999999999865
+step25
+cromossome: [-5.38957945e-09 -4.02180329e-08]
+bestFitness: -10.0
+step26
+cromossome: [-2.64808580e-08 -7.58082595e-09]
+bestFitness: -10.0
+step27
+cromossome: [1.99637467e-09 4.26807048e-08]
+bestFitness: -10.0
+step28
+cromossome: [1.19921444e-08 1.91693963e-09]
+bestFitness: -10.0
+step29
+cromossome: [-8.28547535e-02  5.28238906e+02]
+bestFitness: -9.998597516494009
+step30
+cromossome: [-6.38284017e-09 -2.61628943e-08]
+bestFitness: -10.0
+==================================================================
+[-10.0, -10.0, -10.0, -10.0, -10.0, -9.00504094290671, -10.0, -10.0, -10.0, -8.01008188581342, -10.0, -10.0, -9.994193321821939, -10.0, -10.0, -10.0, -10.0, -10.0, -10.0, -10.0, -10.0, -9.999075334790586, -10.0, -9.999999999999865, -10.0, -10.0, -10.0, -10.0, -9.998597516494009, -10.0]
+Variance: 0.160384494417203
+Average: -9.900232966727549
