@@ -1,7 +1,5 @@
 
-<link href="https://fonts.googleapis.com/css?family=Lalezar|Markazi+Text&display=swap" rel="stylesheet">
-
-<ul  dir='rtl' align='right' font-family:'Lalezar'>
+<ul  dir='rtl' align='right'>
   
   # الگوریتم ازدحام ذرات و الگوریتم استراتژی تکاملی
 
