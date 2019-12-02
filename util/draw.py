@@ -44,7 +44,7 @@ def main_animation(simulation, system,name):
                                    repeat=False, interval=30, blit=True,
                                    init_func=init)
 
-    plt.savefig('data'+'\\'+function_name()+'\\'+name+'.png')
+    plt.savefig('image'+'\\'+function_name()+'\\'+name+'.png')
     # plt.show()
     plt.close()
     return anim
