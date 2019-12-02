@@ -1,3 +1,4 @@
+#Code from http://pyretis.org/current/examples/examples-pso.html
 
 import numpy as np
 from pyretis.engines import MDEngine
